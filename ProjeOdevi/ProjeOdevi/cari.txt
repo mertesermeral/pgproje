@@ -1,0 +1,5 @@
+1  Arya  2665454  ilyas  ozel  istanbul
+2  Fabrika  4565454  Can  genel  kadikoy
+3  Ada.yazilim  2315656  mete  ozel  izmir
+4  meta  987456  seckin  ozel  uskudar
+5  bkm  2334354  emre  genel  ankara

@@ -1,0 +1,5 @@
+1  Huawei_Matebook  Huawei  7  2019  10000  9000  18  1500
+2  Macbook  Apple  10  2020  32000  31000  18  1000
+3  Asus_rog  Asus  8  2021  7500  7300  18  1000
+4  Hp_pavilion  Hp  12  2020  6800  6500  18  2000
+5  Casper_nirvana  Casper  10  2021  9600  9300  18  1500

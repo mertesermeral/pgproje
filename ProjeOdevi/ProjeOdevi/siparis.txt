@@ -1,0 +1,6 @@
+1  1  26/12/2021  1  2  0  18000  Arya  ozel
+2  2  12/12/2021  3  4  30000  0  Fabrika  genel
+3  3  14/11/2020  5  4  0  37200  Ada.yazilim  ozel
+4  4  23/09/2020  4  8  0  52000  meta  ozel
+5  5  19/06/2019  2  10  320000  0  bkm  genel
+3  6  12/12/2021  1  1  0  9000  Ada.yazilim  ozel
